@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/tanmay-github21.lwc-l56ciwhw",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve VagRj36QdCAJHtejbLIF --open"
+  }
+}
